@@ -4,6 +4,10 @@
 
 This is a copy for Tiny Tapeout 3 of a design that was submitted for Tiny Tapeout 2.
 I report below the original wiki.
+
+## ASIC implementation
+
+[Explore the GDS 3D view](https://bat52.github.io/tt03-s4ga).
 # S4GA: Super Slow Serial SRAM FPGA for Tiny Tapeout 2
 
 This is the Tiny Tapeout 2 Super Slow Serial SRAM FPGA, S4GA, the best
@@ -100,10 +104,6 @@ All outputs switch on clk and switch in the same cycle.
 ## Block diagram
 
 ![Block diagram](doc/S4GA-block-diagram.png)
-
-## ASIC implementation
-
-[Explore the GDS 3D view](https://grayresearch.github.io/tt02-s4ga).
 
 ## See also
 
