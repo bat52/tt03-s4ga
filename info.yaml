@@ -10,9 +10,9 @@ project:
 #    - decoder.v
 #  top_module:  "seven_segment_seconds"      # put the name of your top module here, make it unique by prepending your github username
 
-source_files:        
-  - s4ga.v
-top_module:  "s4ga"      # put the name of your top module here, make it unique by prepending your github username
+  source_files:        
+    - s4ga.v
+  top_module:  "s4ga"      # put the name of your top module here, make it unique by prepending your github usernames
 
 # Keep a track of the submission yaml
 yaml_version: 3.0
